@@ -5,6 +5,7 @@ const path = require('path')
 
 
 describe('index', () => {
+  // there's stuff in here, too
   const html = '<div></div>'
   const src = path.resolve(__dirname, '..', 'index.js')
 
